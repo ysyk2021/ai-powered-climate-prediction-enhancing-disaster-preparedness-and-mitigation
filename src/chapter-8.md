@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Climate Prediction and Disaster Preparedness
-==============================================================================
+
 
 The use of Artificial Intelligence (AI) in climate prediction and disaster preparedness has the potential to save lives and minimize damage. However, it's important to assess the effectiveness of AI tools and approaches to identify areas for improvement and refinement. In this chapter, we'll explore how to measure the impact of AI on climate prediction and disaster preparedness.
 

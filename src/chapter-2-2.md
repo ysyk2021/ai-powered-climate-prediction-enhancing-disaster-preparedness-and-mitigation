@@ -1,5 +1,4 @@
-Types of AI Used for Climate Prediction
-===============================================================================================
+
 
 Artificial intelligence (AI) has the potential to significantly enhance climate prediction and improve disaster preparedness and mitigation efforts. In this chapter, we will discuss the types of AI used for climate prediction.
 

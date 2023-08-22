@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Climate Prediction
-============================================================================================================================================
+
 
 AI-powered climate prediction has enormous potential to enhance disaster preparedness and mitigation efforts. However, choosing the right AI tools and technologies is crucial for accurate and reliable climate predictions. In this chapter, we provide an overview of some of the AI tools and technologies that are commonly used in climate prediction.
 

@@ -1,4 +1,4 @@
-# Introduction
+
 
 Climate change is one of the most significant global challenges of our time, with its impacts being felt across the world. The effects of climate change are widespread and far-reaching, causing natural disasters such as hurricanes, floods, wildfires, and droughts that have severe consequences for communities and economies worldwide. As a result, there is an urgent need to develop strategies that can mitigate the impact of climate change and enhance disaster preparedness.
 

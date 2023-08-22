@@ -1,4 +1,4 @@
-# Conclusion
+
 
 Recap of key takeaways from the book
 ------------------------------------
