@@ -1,5 +1,4 @@
 
-
 Before implementing artificial intelligence (AI) tools for climate prediction, it is important to assess your organization's climate prediction needs and goals. In this chapter, we will discuss the importance of assessing your needs and goals, key factors to consider when evaluating your needs, and best practices for setting goals for AI implementation.
 
 The Importance of Assessing Your Needs and Goals

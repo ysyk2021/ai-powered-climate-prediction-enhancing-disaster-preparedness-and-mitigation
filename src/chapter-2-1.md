@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to significantly enhance disaster preparedness and mitigation efforts through climate prediction. In this chapter, we will define what is meant by AI-powered climate prediction and discuss how it can be used for disaster preparedness and mitigation.
 
 Definition of AI-Powered Climate Prediction

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to significantly enhance climate prediction and improve disaster preparedness and mitigation efforts. In this chapter, we will discuss the benefits of using AI for improving climate modeling and disaster preparedness.
 
 Improved Accuracy

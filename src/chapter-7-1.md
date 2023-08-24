@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) can be used to enhance disaster preparedness and mitigation efforts by providing more accurate predictions of weather patterns, ocean currents, atmospheric conditions, and other environmental factors. In this chapter, we will provide an overview of AI applications for disaster preparedness and mitigation.
 
 Early Warning Systems

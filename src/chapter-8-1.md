@@ -1,5 +1,4 @@
 
-
 As AI becomes increasingly utilized in climate prediction and disaster preparedness, it is important to measure the impact of these technologies. In this chapter, we explore how organizations can measure the effectiveness of AI for climate prediction and disaster preparedness.
 
 Establishing Metrics

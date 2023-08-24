@@ -1,5 +1,4 @@
 
-
 As the use of artificial intelligence (AI) in climate prediction and disaster preparedness continues to grow, it is crucial to ensure that AI is used ethically and responsibly. In this chapter, we will discuss the importance of developing governance frameworks for AI ethics and governance in climate prediction and disaster preparedness.
 
 Understanding AI Ethics and Governance
