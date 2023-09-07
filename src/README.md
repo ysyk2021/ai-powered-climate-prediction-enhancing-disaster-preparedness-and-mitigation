@@ -10,3 +10,7 @@ This book, "AI-Powered Climate Prediction: Enhancing Disaster Preparedness and M
 This book is intended for researchers, policymakers, and anyone interested in the impact of climate change and the potential of AI to mitigate its effects. By leveraging AI in climate prediction and disaster preparedness, we can increase our understanding of climate patterns and trends and develop more effective solutions to mitigate the impact of climate change.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
