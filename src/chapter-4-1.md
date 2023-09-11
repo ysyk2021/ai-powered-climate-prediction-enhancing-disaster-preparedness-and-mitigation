@@ -1,5 +1,4 @@
-Chapter: Overview of AI Tools and Technologies for Climate Prediction
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the AI tools and technologies used for climate prediction. These cutting-edge advancements in AI play a crucial role in enhancing disaster preparedness and mitigation efforts by providing more accurate and timely climate predictions.
 

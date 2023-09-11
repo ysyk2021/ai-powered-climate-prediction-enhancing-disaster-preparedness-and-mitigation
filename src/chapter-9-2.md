@@ -1,5 +1,4 @@
-Chapter: Developing Governance Frameworks to Ensure Responsible AI Use
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in climate prediction, disaster preparedness, and mitigation. As AI technologies become more prevalent in these domains, it is crucial to establish guidelines, regulations, and mechanisms that promote ethical, transparent, and accountable AI implementation. This chapter discusses key considerations for developing governance frameworks and highlights their significance in ensuring the responsible use of AI.
 

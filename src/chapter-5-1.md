@@ -1,5 +1,4 @@
-Chapter: Importance of Data Collection and Analysis for Climate Prediction
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of data collection and analysis for AI-powered climate prediction. Accurate and comprehensive data is crucial for understanding climate patterns, predicting extreme weather events, and enhancing disaster preparedness and mitigation strategies. This chapter highlights the significance of data in climate prediction and the role of AI in leveraging this data for effective decision-making.
 

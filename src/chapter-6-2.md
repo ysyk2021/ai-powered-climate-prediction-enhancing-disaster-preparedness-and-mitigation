@@ -1,5 +1,4 @@
-Chapter: Best Practices for AI Implementation in Areas such as Extreme Weather Forecasting, Resource Management, and Risk Assessment
-====================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for implementing AI in areas such as extreme weather forecasting, resource management, and risk assessment. These practices aim to enhance the effectiveness of AI-powered climate prediction, improve disaster preparedness, and mitigate potential risks.
 

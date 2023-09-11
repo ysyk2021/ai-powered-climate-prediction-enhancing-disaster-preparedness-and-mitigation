@@ -1,5 +1,4 @@
-Chapter: Benefits of AI for Improving Climate Modeling and Disaster Preparedness
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

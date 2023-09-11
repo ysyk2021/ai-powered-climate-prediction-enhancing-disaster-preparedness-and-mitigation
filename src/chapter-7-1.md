@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Disaster Preparedness and Mitigation
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI applications that contribute to enhancing disaster preparedness and mitigation efforts. AI-powered tools and technologies play a crucial role in improving response strategies, minimizing risks, and increasing resilience in the face of natural disasters.
 

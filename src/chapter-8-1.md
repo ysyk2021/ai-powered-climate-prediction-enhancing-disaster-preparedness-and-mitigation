@@ -1,5 +1,4 @@
-Chapter: Assessing the Effectiveness of AI for Climate Prediction and Disaster Preparedness
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing the effectiveness of AI for climate prediction and disaster preparedness. Evaluating the performance and impact of AI systems is crucial to ensure their reliability, accuracy, and usefulness in addressing the challenges of climate change and disaster management. This chapter outlines key considerations and strategies for assessing the effectiveness of AI in these domains.
 

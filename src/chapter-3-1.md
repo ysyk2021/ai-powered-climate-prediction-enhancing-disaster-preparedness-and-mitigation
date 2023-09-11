@@ -1,5 +1,4 @@
-Chapter: Assessing Your Climate Prediction Needs and Goals
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the importance of assessing your climate prediction needs and goals when utilizing AI technologies for enhancing disaster preparedness and mitigation. By understanding your specific requirements and objectives, you can effectively leverage AI-powered climate prediction to address challenges and make informed decisions.
 

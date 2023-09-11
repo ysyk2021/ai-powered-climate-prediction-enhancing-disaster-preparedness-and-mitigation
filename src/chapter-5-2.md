@@ -1,5 +1,4 @@
-Chapter: Best Practices for Data Collection and Preparation
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the best practices for data collection and preparation in AI-powered climate prediction. Accurate and high-quality data is essential for training AI models and making reliable predictions. Following these best practices will ensure the integrity and effectiveness of climate data used in enhancing disaster preparedness and mitigation efforts.
 

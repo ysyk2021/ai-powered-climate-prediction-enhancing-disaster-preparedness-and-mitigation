@@ -1,5 +1,4 @@
-Chapter: Using AI Algorithms for Data Analysis and Pattern Recognition in Climate Prediction
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of AI algorithms for data analysis and pattern recognition in climate prediction. These AI-powered techniques play a vital role in extracting valuable insights from vast amounts of climate data, facilitating accurate and effective predictions to enhance disaster preparedness and mitigation efforts.
 

@@ -1,5 +1,4 @@
-Chapter: Continuously Adapting and Improving Your AI Approach for Climate Prediction and Disaster Preparedness
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of continuously adapting and improving your AI approach for climate prediction and disaster preparedness. As new challenges emerge, data evolves, and technologies advance, it is crucial to constantly refine and update AI systems to ensure their effectiveness and relevance. This chapter highlights key strategies and considerations for maintaining a dynamic AI approach that can address the ever-changing landscape of climate prediction and disaster preparedness.
 

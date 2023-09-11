@@ -1,5 +1,4 @@
-Chapter: Legal and Regulatory Considerations for AI Implementation in Climate Prediction and Disaster Preparedness
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal and regulatory considerations associated with the implementation of AI technologies in climate prediction, disaster preparedness, and mitigation. As AI becomes increasingly integrated into these domains, it is essential to address legal and regulatory frameworks that ensure ethical use, protect privacy, and promote accountability. This chapter examines key considerations and guidelines for navigating the legal and regulatory landscape of AI implementation.
 

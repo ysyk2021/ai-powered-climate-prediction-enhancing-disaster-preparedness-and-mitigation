@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Accurate and Timely Climate Predictions
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI applications that contribute to accurate and timely climate predictions. These AI-powered tools and technologies play a crucial role in enhancing disaster preparedness and mitigation efforts by providing valuable insights into climate patterns.
 

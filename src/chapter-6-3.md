@@ -1,5 +1,4 @@
-Chapter: Case Studies of Successful AI Implementations in Climate Prediction
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine case studies of successful AI implementations in climate prediction. These real-world examples showcase the effectiveness of AI-powered systems in enhancing disaster preparedness and mitigation efforts.
 

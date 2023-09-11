@@ -1,5 +1,4 @@
-Chapter: Case Studies of Successful AI Implementations in Disaster Preparedness and Mitigation
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several case studies that highlight successful implementations of AI in disaster preparedness and mitigation. These real-world examples demonstrate the effectiveness of AI technologies in enhancing response strategies, improving risk assessment, and mitigating the impacts of natural disasters.
 
